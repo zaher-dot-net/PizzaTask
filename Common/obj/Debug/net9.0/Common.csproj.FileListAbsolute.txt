@@ -1,0 +1,11 @@
+/home/zaher/RiderProjects/ConsoleApp1/Common/bin/Debug/net9.0/Common.deps.json
+/home/zaher/RiderProjects/ConsoleApp1/Common/bin/Debug/net9.0/Common.dll
+/home/zaher/RiderProjects/ConsoleApp1/Common/bin/Debug/net9.0/Common.pdb
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/Common.AssemblyInfoInputs.cache
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/Common.AssemblyInfo.cs
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/Common.csproj.CoreCompileInputs.cache
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/Common.dll
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/refint/Common.dll
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/Common.pdb
+/home/zaher/RiderProjects/ConsoleApp1/Common/obj/Debug/net9.0/ref/Common.dll
